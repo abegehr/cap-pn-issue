@@ -12,5 +12,9 @@
   },
   "ios": {
     "webContentsDebuggingEnabled": true
+  },
+  "server": {
+    "url": "http://192.168.179.9:5173",
+    "cleartext": true
   }
 }

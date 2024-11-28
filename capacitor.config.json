@@ -1,0 +1,10 @@
+{
+  "appId": "me.begehr.cap_pn_issue",
+  "appName": "cap-pn-issue",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
